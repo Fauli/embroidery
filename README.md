@@ -1,9 +1,10 @@
 # Embroidery
 
-My journey making various embroideries
-
-<img src=".attachements/sloth-sowing.webp" width="250"> <!-- Adjust width as needed -->
-
+<p align="center">
+    <img src=".attachements/sloth-sowing.webp" width="250"> 
+    <br/>
+    My journey making various embroideries
+</p>
 
 ## Machine
 
@@ -12,7 +13,7 @@ But the machine works pretty great overall.
 
 ## Tooling
 
-I've tried two tools so far, [StichBuddy](https://www.stitchbuddy.de/) on Mac and Inkscape with the [inkstick](https://inkstitch.org/) plugin.
+I've tried two tools so far, [StichBuddy](https://www.stitchbuddy.de/) on Mac and Inkscape with the [inkstitch](https://inkstitch.org/) plugin.
 
 | Feature                    | StitchBuddy                                                      | Inkscape with Ink/Stitch Plugin                                                                                |
 | -------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
